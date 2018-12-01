@@ -1,0 +1,161 @@
+[
+     {
+       "id"             :     "PROD001",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name001",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD001.jpeg"
+      },
+
+      {
+       "id"             :     "PROD002",
+       "selling_price"  :     "3000",
+       "title"          :     "PROD_Name002",
+       "description"    :     "Saree description...!",
+       "original_price" :     "2700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD002.jpeg"
+      },
+
+      {
+       "id"             :     "PROD003",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name003",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD003.jpeg"
+      },
+
+      {
+       "id"             :     "PROD004",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name004",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD004.jpeg"
+      },
+
+      {
+       "id"             :     "PROD005",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name005",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD001.jpeg"
+      },
+
+      {
+       "id"             :     "PROD001",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name001",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD001.jpeg"
+      },
+
+      {
+       "id"             :     "PROD002",
+       "selling_price"  :     "3000",
+       "title"          :     "PROD_Name002",
+       "description"    :     "Saree description...!",
+       "original_price" :     "2700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD002.jpeg"
+      },
+
+      {
+       "id"             :     "PROD004",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name004",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD004.jpeg"
+      },
+
+       {
+       "id"             :     "PROD001",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name001",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD001.jpeg"
+      },
+
+      {
+       "id"             :     "PROD002",
+       "selling_price"  :     "3000",
+       "title"          :     "PROD_Name002",
+       "description"    :     "Saree description...!",
+       "original_price" :     "2700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD002.jpeg"
+      },
+
+      {
+       "id"             :     "PROD003",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name003",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD003.jpeg"
+      },
+
+      {
+       "id"             :     "PROD004",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name004",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD004.jpeg"
+      },
+
+      {
+       "id"             :     "PROD005",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name005",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD001.jpeg"
+      },
+
+      {
+       "id"             :     "PROD001",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name001",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD001.jpeg"
+      },
+
+      {
+       "id"             :     "PROD002",
+       "selling_price"  :     "3000",
+       "title"          :     "PROD_Name002",
+       "description"    :     "Saree description...!",
+       "original_price" :     "2700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD002.jpeg"
+      },
+
+      {
+       "id"             :     "PROD004",
+       "selling_price"  :     "2000",
+       "title"          :     "PROD_Name004",
+       "description"    :     "Saree description...!",
+       "original_price" :     "1700",
+       "promotion"      :     "10",
+       "image_url"      :     "imgs/PROD004.jpeg"
+      }
+]
